@@ -1,0 +1,91 @@
+ChartIntent {Date}
+ChartIntent Mein Geburtstag ist am {Date}
+ChartIntent Mein Geburtstag ist der {Date}
+ChartIntent Ich habe am {Date} Geburtstag
+ChartIntent Ich bin am {Date} geboren
+
+ChartIntent welcher Hit am {Date} auf platz eins war
+
+ChartIntent Welcher Song war am {Date} auf Platz eins
+ChartIntent Welcher Song war am {Date} auf Platz eins in den deutschen Charts
+ChartIntent Welcher Song war am {Date} auf Platz eins in den Charts
+ChartIntent Welcher Song war am {Date} auf Platz eins in Deutschland
+ChartIntent Welcher Song war am {Date} auf Platz eins in den deutschen Singlecharts
+ChartIntent Welcher Song war am {Date} auf Platz eins in den Singlecharts
+
+ChartIntent Welcher Hit war am {Date} auf Platz eins
+ChartIntent Welcher Hit war am {Date} auf Platz eins in den deutschen Charts
+ChartIntent Welcher Hit war am {Date} auf Platz eins in den Charts
+ChartIntent Welcher Hit war am {Date} auf Platz eins in Deutschland
+ChartIntent Welcher Hit war am {Date} auf Platz eins in den deutschen Singlecharts
+ChartIntent Welcher Hit war am {Date} auf Platz eins in den Singlecharts
+
+ChartIntent Welches Lied war am {Date} auf Platz eins
+ChartIntent Welches Lied war am {Date} auf Platz eins in den deutschen Charts
+ChartIntent Welches Lied war am {Date} auf Platz eins in den Charts
+ChartIntent Welches Lied war am {Date} auf Platz eins in Deutschland
+ChartIntent Welches Lied war am {Date} auf Platz eins in den deutschen SingleCharts
+ChartIntent Welches Lied war am {Date} auf Platz eins in den Singlecharts
+
+ChartIntent Was war am {Date} auf Platz Nummer eins
+ChartIntent Was war am {Date} auf Platz Nummer eins in den deutschen Charts
+ChartIntent Was war am {Date} auf Platz Nummer eins in den Charts
+ChartIntent Was war am {Date} auf Platz Nummer eins in Deutschland
+ChartIntent Was war am {Date} auf Platz Nummer eins in den deutschen Singlecharts
+ChartIntent Was war am {Date} auf Platz Nummer eins in den SingleCharts
+
+ChartIntent Was war am {Date} auf Nummer eins
+ChartIntent Was war am {Date} auf Nummer eins in den deutschen Charts
+ChartIntent Was war am {Date} auf Nummer eins in den Charts
+ChartIntent Was war am {Date} auf Nummer eins in Deutschland
+ChartIntent Was war am {Date} auf Nummer eins in den deutschen Singlecharts
+ChartIntent Was war am {Date} auf Nummer eins in den Singlecharts
+
+ChartIntent Was war der Nummer eins Hit am {Date}
+ChartIntent Was war der Nummer eins Hit am {Date} in den deutschen Charts
+ChartIntent Was war der Nummer eins Hit am {Date} in den Charts
+ChartIntent Was war der Nummer eins Hit am {Date} in Deutschland
+ChartIntent Was war der Nummer eins Hit am {Date} in den deutschen Singlecharts
+ChartIntent Was war der Nummer eins Hit am {Date} in den Singlecharts
+
+ChartIntent Was war der Nummer eins Song am {Date}
+ChartIntent Was war der Nummer eins Song am {Date} in den deutschen Charts
+ChartIntent Was war der Nummer eins Song am {Date} in den Charts
+ChartIntent Was war der Nummer eins Song am {Date} in Deutschland
+ChartIntent Was war der Nummer eins Song am {Date} in den deutschen Singlecharts
+ChartIntent Was war der Nummer eins Song am {Date} in den Singlecharts
+
+ChartIntent Was war das Nummer eins Lied am {Date}
+ChartIntent Was war das Nummer eins Lied am {Date} in den deutschen Charts
+ChartIntent Was war das Nummer eins Lied am {Date} in den Charts
+ChartIntent Was war das Nummer eins Lied am {Date} in Deutschland
+ChartIntent Was war das Nummer eins Lied am {Date} in den deutschen Singlecharts
+ChartIntent Was war das Nummer eins Lied am {Date} in den Singlecharts
+
+ChartIntent Was war Nummer eins Hit am {Date}
+ChartIntent Was war Nummer eins Hit am {Date} in den deutschen Charts
+ChartIntent Was war Nummer eins Hit am {Date} in den Charts
+ChartIntent Was war Nummer eins Hit am {Date} in Deutschland
+ChartIntent Was war Nummer eins Hit am {Date} in den deutschen Singlecharts
+ChartIntent Was war Nummer eins Hit am {Date} in den Singlecharts
+
+ChartIntent Was war die Nummer eins am {Date}
+ChartIntent Was war die Nummer eins am {Date} in den deutschen Charts
+ChartIntent Was war die Nummer eins am {Date} in den Charts
+ChartIntent Was war die Nummer eins am {Date} in Deutschland
+ChartIntent Was war die Nummer eins am {Date} in den deutschen Singlecharts
+ChartIntent Was war die Nummer eins am {Date} in den Singlecharts
+
+ChartIntent Was war Nummer eins am {Date}
+ChartIntent Was war Nummer eins am {Date} in den deutschen Charts
+ChartIntent Was war Nummer eins am {Date} in den Charts
+ChartIntent Was war Nummer eins am {Date} in Deutschland
+ChartIntent Was war Nummer eins am {Date} in den deutschen Singlecharts
+ChartIntent Was war Nummer eins am {Date} in den Singlecharts
+
+ChartIntent Was war auf Platz eins am {Date}
+ChartIntent Was war auf Platz eins am {Date} in den deutschen Charts
+ChartIntent Was war auf Platz eins am {Date} in den Charts
+ChartIntent Was war auf Platz eins am {Date} in Deutschland
+ChartIntent Was war auf Platz eins am {Date} in den deutschen Singlecharts
+ChartIntent Was war auf Platz eins am {Date} in den Singlecharts
